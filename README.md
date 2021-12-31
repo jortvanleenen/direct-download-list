@@ -5,6 +5,16 @@ A curated list of direct download links to the latest version of popular applica
 To contribute, please reading the guideline on how to contribute. To report an issue or to make a suggestion, feel free to create an issue.
 ## Table of Contents
 ---
+## Communication
+### Discord
+**Download page:** https://discord.com/download
+**Direct download link format:**
+- [Discord (regular) Windows 7+](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
+- [Discord (regular) Linux deb](https://discord.com/api/download?platform=linux&format=deb)
+- [Discord (regular) Linux tar.gz](https://discord.com/api/download?platform=linux&format=tar.gz)
+- [Discord (regular) macOS](https://discord.com/api/download?platform=osx)
+- Discord (regular) Android
+- Discord (regular) iOS
 ## IDEs
 ### Visual Studio Code (VS Code)
 - [Visual Studio Code (VS Code) stable win32-x64-user](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
